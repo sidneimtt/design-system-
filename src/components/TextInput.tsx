@@ -1,4 +1,4 @@
-import React, { InputHTMLAttributes } from 'react'
+import { InputHTMLAttributes } from 'react'
 import { ReactNode } from 'react'
 import { Slot } from '@radix-ui/react-slot'
 
