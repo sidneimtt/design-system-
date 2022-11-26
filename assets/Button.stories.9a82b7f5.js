@@ -1,0 +1,2 @@
+import{B as t}from"./Button.e5a2e04b.js";import"./index.module.bc15d8cf.js";import"./index.afa2630c.js";import"./iframe.1e4253f8.js";import"./clsx.m.256e9345.js";import"./jsx-runtime.fb9a45a5.js";const s={title:"Components/Button",component:t,args:{children:"Sidnei button"},argTypes:{}},m={},a=["Default"];export{m as Default,a as __namedExportsOrder,s as default};
+//# sourceMappingURL=Button.stories.9a82b7f5.js.map
